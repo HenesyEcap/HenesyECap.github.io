@@ -82,7 +82,7 @@ footer h2 {
 }
 
 .header__container {
-  display: flex;
+  display: auto;
   flex-direction: auto;
   align-items: center;
   margin-top: 40px;
